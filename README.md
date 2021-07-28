@@ -4,7 +4,7 @@
   <h3 align="center">Desafio - Work Plin 🟣</h3>
 
   <p align="center">
-    Site estático: <a href="">Site</a>
+    Site estático: <a href="dev-web-desafio-work-plin.vercel.app">Site</a>
        <br />
     <br />
     <a href="https://github.com/lubomfim/work-plin">Challenge</a>
